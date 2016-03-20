@@ -1,0 +1,11 @@
+ntp
+ntpdate
+parted
+logrotate
+host
+dnsutils
+lockfile-progs
+base-passwd
+psmisc
+tree
+binutils
