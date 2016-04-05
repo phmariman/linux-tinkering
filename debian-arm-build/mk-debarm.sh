@@ -17,8 +17,8 @@ Options:
 -i, --include FILE      include file containing list of additional pkgs (one per line)
 -o, --overlay DIR       path to overlay directory, which will be copied over to the root
 -r, --repo URI          set repository:
-                        * "rpi" (Raspbian repository,default)
-                        * "deb" (official Debian armhf repository)
+                        * "deb" (official Debian armhf repository, default)
+                        * "rpi" (Raspbian repository)
                         * "http://custom-repo.com/dir" (custom repo)
 -d. --dry-run           prints debootstrap command (first stage) and exits
 -v, --version           prints version of script
