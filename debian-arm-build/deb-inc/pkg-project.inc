@@ -17,3 +17,6 @@ libmodbus5
 libserialport0
 tcl8.6
 libzmq3
+curl
+libcurl3
+libcurl3-gnutls
